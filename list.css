@@ -1,0 +1,7 @@
+.d {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-style: solid;
+  margin: 4px;
+}
