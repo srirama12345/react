@@ -1,0 +1,21 @@
+.back {
+  background-color: white;
+  border-radius: 10px;
+  padding: 8px;
+  width: 190px;
+  height: 190px;
+  margin: 10px;
+}
+.img {
+  height: 40px;
+  width: 40px;
+}
+h1 {
+  font-size: 24px;
+}
+.row {
+  display: flex;
+}
+.back1 {
+  list-style-type: none;
+}
