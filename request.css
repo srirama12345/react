@@ -1,0 +1,20 @@
+.request1 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.search1 {
+  height: 30px;
+  border-radius: 6px;
+  margin: 5px;
+}
+.c {
+  display: flex;
+  justify-content: space-around;
+}
+.f {
+  background-color: turquoise;
+  border-radius: 6px;
+  padding: 10px;
+  margin: 5px;
+}
